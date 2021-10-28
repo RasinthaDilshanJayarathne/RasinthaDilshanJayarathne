@@ -1,8 +1,9 @@
-### Hi there 👋
+### <h1 align="center">Hi 👋, I'm Rasinth Dilshan Jayarathne</h1>
+
+![IMG-20211021-WA0023](https://user-images.githubusercontent.com/87766409/139280945-f43cf808-c25f-4dfe-af24-22b7142b3bdf.jpg)
 
 <!--
 **RasinthaDilshanJayarathne/RasinthaDilshanJayarathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![IMG-20211021-WA0023](https://user-images.githubusercontent.com/87766409/139280945-f43cf808-c25f-4dfe-af24-22b7142b3bdf.jpg)
 
 Here are some ideas to get you started:
 
@@ -15,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Rasinth Dilshan</h1>
 <h3 align="center">A passionate Java developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RasinthaDilshanJayarathne&label=Profile%20views&color=0e75b6&style=flat" alt="RasinthaDilshanJayarathne" /> </p>
