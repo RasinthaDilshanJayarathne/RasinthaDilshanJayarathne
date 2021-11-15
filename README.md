@@ -40,7 +40,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<br><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yasirulak&show_icons=true&theme=gotham" alt="yasirulak | Stats" />
+<br><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RasinthaDilshanJayarathne&show_icons=true&theme=gotham" alt="RasinthaDilshanJayarathne | Stats" />
   
 [comment]: <> (<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasinthaDilshanJayarathne&langs_count=5&theme=gotham" alt="RasinthaDilshanJayarathne | My GitHub Language Stats" />)
 <p align="left"> <a href="https://github.com/RasinthaDilshanJayarathne/github-readme-stats"><img alt="RasinthaDilshanJayarathne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasinthaDilshanJayarathne&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>
