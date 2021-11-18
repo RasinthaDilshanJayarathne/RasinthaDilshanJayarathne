@@ -3,7 +3,7 @@
 ![IMG-20211021-WA0023](https://user-images.githubusercontent.com/87766409/139280945-f43cf808-c25f-4dfe-af24-22b7142b3bdf.jpg)
 <h3 align="left"><b><i>A passionate Java developer from Sri Lanka</i></b></h3>
 
-<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> <img src="https://badges.pufler.dev/visits/M4cs/M4cs"> <img src="https://badges.pufler.dev/years/M4cs"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=RasinthaDilshanJayarathne&label=Profile%20views&color=0e75b6&style=flat" alt="RasinthaDilshanJayarathne" /> </p>
+<align="left" img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> <img src="https://badges.pufler.dev/visits/M4cs/M4cs"> <img src="https://badges.pufler.dev/years/M4cs"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=RasinthaDilshanJayarathne&label=Profile%20views&color=0e75b6&style=flat" alt="RasinthaDilshanJayarathne" /> </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/RasinthaDilshanJayarathne.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RasinthaDilshanJayarathne?tab=followers)
 
