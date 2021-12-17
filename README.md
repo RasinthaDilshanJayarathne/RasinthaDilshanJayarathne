@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasintha+Dilshan+Jayarathne;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg) 
 
-![IMG-20211021-WA0023](https://user-images.githubusercontent.com/87766409/139280945-f43cf808-c25f-4dfe-af24-22b7142b3bdf.jpg)
+![IMG-20211210-WA0039](https://user-images.githubusercontent.com/87766409/146494734-eb66ba03-a507-49db-a501-c8a7f5c2112c.jpg)
 <h3 align="left"><b><i>A passionate Java developer from Sri Lanka</i></b></h3>
 
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> <img src="https://badges.pufler.dev/visits/M4cs/M4cs"> <img src="https://badges.pufler.dev/years/M4cs"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=RasinthaDilshanJayarathne&label=Profile%20views&color=0e75b6&style=flat" alt="RasinthaDilshanJayarathne" /> </p>
