@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasintha+Dilshan+Jayarathne;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasintha+Dilshan+Jayarathne;IJSE-+Institute+of+Software+Engineering)](https://git.io/typing-svg) 
 
 [![Untitled-1](https://user-images.githubusercontent.com/87766409/147714172-4a4b929e-2c95-45d8-8f6c-7e4a49bdbf45.jpg)](https://rasinthadilshanjayarathne.github.io/My-Presonal-Web/)
 <h3 align="center"><b><i>Full Stack Software Developer from Sri Lanka</i></b></h3>
