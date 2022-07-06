@@ -19,6 +19,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me:<p align="left">
+
+<h3 align="left">📫 Donation:</h3>
+
+<h4 align="left">If you like what i do, maybe consider buying me a coffee🥺 👇</h4>
+
+<a href='https://ko-fi.com/I2I3DNRNF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   
 <a href="https://twitter.com/RasinthaDilshan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__RasinthaDilshan__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rasintha-dilshan-21762a203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
