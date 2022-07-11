@@ -59,9 +59,6 @@
 <p align="left"> <a href="https://github.com/RasinthaDilshanJayarathne/github-readme-stats"><img alt="RasinthaDilshanJayarathne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasinthaDilshanJayarathne&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>
 
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasinthaDilshanJayarathne&theme=monokai)
-
 [![](https://github-readme-streak-stats.herokuapp.com?user=RasinthaDilshanJayarathne&theme=soft-green)](https://git.io/streak-stats)
 
 <a href="https://github.com/RasinthaDilshanJayarathne/github-readme-activity-graph"><img alt="Rasintha Dilshan Jayarathne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RasinthaDilshanJayarathne&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
