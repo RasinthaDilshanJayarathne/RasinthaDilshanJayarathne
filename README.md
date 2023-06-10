@@ -16,8 +16,8 @@
 - 💬 Ask me about anything
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Rasi
+- ⚡ Fun fact: I love to leave my phone unanswered and then text them to know why they had called.
 - 📫 How to reach me:<p align="left">
 
 <h3 align="left">📫 Donation:</h3>
@@ -31,10 +31,6 @@
 <a href="https://www.facebook.com/profile.php?id=100021760126566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dilshan Jayarathne" height="30" width="40" /></a>
 <a href="https://www.instagram.com/____r_a_s_i_____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____r_a_s_i_____" height="30" width="40" /></a>
 </p>
-
-- 😄 Pronouns: he/him/his
-
-- ⚡ Fun fact: I love to leave my phone unanswered and then text them to know why they had called.
 
 <h3 align="left"><b><i>Languages and Tools:</i></b></h3>
 
