@@ -56,5 +56,3 @@
 
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=RasinthaDilshanJayarathne&theme=soft-green)](https://git.io/streak-stats)
-
-<a href="https://github.com/RasinthaDilshanJayarathne/github-readme-activity-graph"><img alt="Rasintha Dilshan Jayarathne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RasinthaDilshanJayarathne&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
