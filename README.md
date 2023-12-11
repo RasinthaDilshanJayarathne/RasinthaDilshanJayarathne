@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on Freelance Thanks for dropping by! I like to Code and Learn to build the next generation applications.
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on ...
--   <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/raw/master/assets/image.gif?raw=true" width="300" height="300" style="max-width: 100%;">
 - 🤔 I’m looking for help with Coding
+  <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/raw/master/assets/image.gif?raw=true" width="300" height="300" style="max-width: 100%;">
 - 💬 Ask me about anything
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
