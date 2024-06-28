@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasintha+Dilshan+Jayarathne;I'm+Currently+work+at+Epic+Technology+Group;student+At+London+Metropolitan+University)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasintha+Dilshan+Jayarathne;I'm+Currently+work+at+Epic+Technology+Group;Student+At+London+Metropolitan+University)](https://git.io/typing-svg) 
 
 [![myProfile](https://user-images.githubusercontent.com/87766409/169680682-59bb3538-683c-419b-96b0-94cd7db68e4c.jpg)]( https://rasinthadilshanjayarathne.github.io/MyProfile/)
 
